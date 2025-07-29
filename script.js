@@ -1,0 +1,1 @@
+console.log("Pritingira App Loaded Successfully");
